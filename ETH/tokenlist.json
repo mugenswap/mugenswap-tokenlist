@@ -22,6 +22,14 @@
       "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
     },
 {
+      "name": "Kekchain",
+      "symbol": "KEK",
+      "address": "0x67954768e721fad0f0f21e33e874497c73ed6a82",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/kekchain_32.png"
+    },
+{
       "name": "Shiba Inu",
       "symbol": "SHIB",
       "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",

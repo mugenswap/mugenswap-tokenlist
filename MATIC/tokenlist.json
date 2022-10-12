@@ -1,1 +1,89 @@
 
+{
+  "name": "MugenSwap MATIC",
+  "timestamp": "2022-05-28T04:52:56.475Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://polygonscan.com/images/svg/brands/poly.png",
+  "keywords": [
+    "polygon",
+    "mugenswap"
+  ],
+  "tokens": [
+    {
+      "name": "decentral.games",
+      "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
+      "symbol": "$DG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/dg.jpg"
+    },
+    {
+      "name": "0xBitcoin Token",
+      "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+      "symbol": "0xBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
+    },
+    {
+      "name": "Aave",
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/aave_32.png"
+    },
+    {
+      "name": "Adamant",
+      "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+      "symbol": "ADDY",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://adamant.finance/img/adamant.png"
+    },
+    {
+      "name": "AGA Token",
+      "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+      "symbol": "AGA",
+      "decimals": 4,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/R0aQlym.png"
+    },
+    {
+      "name": "AGA Rewards",
+      "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+      "symbol": "AGAr",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    },
+    {
+      "name": "Anyswap",
+      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+      "symbol": "ANY",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-128-white.svg"
+    },
+    {
+      "name": "ARIANEE",
+      "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
+      "symbol": "ARIA20",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://aria.fyi/images/Aria_Logo_256.png"
+    },
+    {
+      "name": "DokiDokiAzuki",
+      "address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
+      "symbol": "AZUKI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png"
+    }
+  ]
+}

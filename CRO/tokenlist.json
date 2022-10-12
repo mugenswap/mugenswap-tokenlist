@@ -1,1 +1,33 @@
 
+{
+  "name": "MugenSwap CRO",
+  "timestamp": "2022-05-28T04:52:56.475Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://cronoscan.com/images/svg/brands/main.svg",
+  "keywords": [
+    "cronos",
+    "mugenswap"
+  ],
+  "tokens": [
+    {
+      "name": "Mad meerkat finance",
+      "symbol": "MMF",
+      "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cronoscan.com/token/images/mmfinance_32.png"
+    },
+{
+      "name": "Crodex token",
+      "symbol": "CRX",
+      "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cronoscan.com/token/images/crodex_32.png"
+    }
+  ]
+}

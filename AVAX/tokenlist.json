@@ -2,11 +2,11 @@
   "name": "MugenSwap AVAX",
   "timestamp": "2022-09-25T04:52:56.475Z",
   "version": {
-    "major": 2,
-    "minor": 16,
-    "patch": 13
+    "major": 0,
+    "minor": 0,
+    "patch": 0
   },
-  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+  "logoURI": "https://snowtrace.io/images/svg/brands/mainbrand-1.svg",
   "keywords": [
     "avax",
     "avalanche"

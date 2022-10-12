@@ -30,6 +30,14 @@
       "logoURI": "https://cronoscan.com/token/images/crolonmars_32.png"
     },
 {
+      "name": "Dark Crypto",
+      "symbol": "DARK",
+      "address": "0x83b2ac8642ae46fc2823bc959ffeb3c1742c48b5",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cronoscan.com/token/images/darkcryptodark_32.png"
+    },
+{
       "name": "Crodex token",
       "symbol": "CRX",
       "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",

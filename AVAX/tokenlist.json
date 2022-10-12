@@ -1,1 +1,32 @@
-
+{
+  "name": "MugenSwap AVAX",
+  "timestamp": "2022-09-25T04:52:56.475Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 13
+  },
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+  "keywords": [
+    "avax",
+    "avalanche"
+  ],
+  "tokens": [
+    {
+      "name": "DEGENX",
+      "symbol": "DGNX",
+      "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/token/images/degenx_32.png"
+    },
+{
+      "name": "Baby Krakens",
+      "symbol": "BABYKRAKENS",
+      "address": "0xA2Df0Dc89dfc39FAEe6cf13DFBf2203fEA3670E4",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/token/images/babykrakens2_32.png"
+    }
+  ]
+}

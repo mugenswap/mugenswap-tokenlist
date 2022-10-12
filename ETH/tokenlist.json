@@ -1,1 +1,33 @@
 
+{
+  "name": "MugenSwap ETH",
+  "timestamp": "2022-05-28T04:52:56.475Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://etherscan.io/images/svg/brands/ethereum.svg",
+  "keywords": [
+    "uniswap",
+    "mugenswap"
+  ],
+  "tokens": [
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
+    },
+{
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/shibatoken_32.png"
+    }
+  ]
+}

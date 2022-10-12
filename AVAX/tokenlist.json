@@ -21,6 +21,14 @@
       "logoURI": "https://snowtrace.io/token/images/degenx_32.png"
     },
 {
+      "name": "Joe trader",
+      "symbol": "JOE",
+      "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://snowtrace.io/token/images/traderjoe_32.png"
+    },
+{
       "name": "Baby Krakens",
       "symbol": "BABYKRAKENS",
       "address": "0xA2Df0Dc89dfc39FAEe6cf13DFBf2203fEA3670E4",

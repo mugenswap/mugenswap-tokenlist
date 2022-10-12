@@ -22,6 +22,14 @@
       "logoURI": "https://cronoscan.com/token/images/mmfinance_32.png"
     },
 {
+      "name": "Crolon Mars",
+      "symbol": "CLMRS",
+      "address": "0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cronoscan.com/token/images/crolonmars_32.png"
+    },
+{
       "name": "Crodex token",
       "symbol": "CRX",
       "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",

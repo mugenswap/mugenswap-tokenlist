@@ -7,7 +7,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://pbs.twimg.com/profile_images/1579452910441795586/p3yivNus_400x400.png",
+  "logoURI": "https://bscscan.com/images/svg/brands/bnb.svg",
   "keywords": [
     "pancakeswap",
     "mugenswap"
@@ -27,7 +27,7 @@
       "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://bscscan.com/token/images/fegtoken_32.png"
+      "logoURI": "https://pbs.twimg.com/profile_images/1579452910441795586/p3yivNus_400x400.png"
     }
   ]
 }

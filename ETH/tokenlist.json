@@ -45,5 +45,13 @@
       "decimals": 9,
       "logoURI": "https://pbs.twimg.com/profile_images/1579452910441795586/p3yivNus_400x400.png"
     }
+{
+      "name": "Kleekai",
+      "symbol": "KLEE",
+      "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
+      "chainId": 1,
+      "decimals": 9,
+      "logoURI": "https://etherscan.io/token/images/kleerun_32.png"
+    }
   ]
 }

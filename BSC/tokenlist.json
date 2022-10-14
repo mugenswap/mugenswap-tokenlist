@@ -28,6 +28,14 @@
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://pbs.twimg.com/profile_images/1579452910441795586/p3yivNus_400x400.png"
+    },
+{
+      "name": "Inuko Token",
+      "symbol": "INUKO",
+      "address": "0xEa51801b8F5B88543DdaD3D1727400c15b209D8f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/inuko_32.png"
     }
   ]
 }

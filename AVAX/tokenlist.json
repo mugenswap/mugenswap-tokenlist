@@ -1,12 +1,12 @@
 {
-  "name": "MugenSwap AVAX",
+  "name": "MugenSwap Default List",
   "timestamp": "2022-09-25T04:52:56.475Z",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://snowtrace.io/images/svg/brands/mainbrand-1.svg",
+  "logoURI": "https://www.mugenswap.xyz/favi.png",
   "keywords": [
     "avax",
     "avalanche"

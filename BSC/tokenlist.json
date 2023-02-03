@@ -30,12 +30,12 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1579452910441795586/p3yivNus_400x400.png"
     },
 {
-      "name": "Inuko Token",
-      "symbol": "INUKO",
-      "address": "0xEa51801b8F5B88543DdaD3D1727400c15b209D8f",
+      "name": "Aeon Colony",
+      "symbol": "Aeon",
+      "address": "0x9A8c2c5CE1825ae33CA27B598849744BF8E30fDc",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/inuko_32.png"
+      "decimals": 9,
+      "logoURI": "https://aeoncolony.com/logo.png"
     }
   ]
 }

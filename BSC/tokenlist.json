@@ -22,6 +22,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
     },
 {
+      "name": "Pancake Swap",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/cdn-cgi/mirage/87802f657c8e71bba9d777fd14e9295c90597b287693a328f303cd489e09c36b/1280/token/images/pancake_32.png"
+    },
+{
       "name": "FEGToken",
       "symbol": "FEG",
       "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",

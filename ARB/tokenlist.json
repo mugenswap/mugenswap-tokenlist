@@ -1,1 +1,32 @@
-0x4DAD357726b41bb8932764340ee9108cC5AD33a0
+{
+  "name": "MugenSwap Default List",
+  "timestamp": "2022-05-28T04:52:56.475Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://mugenswap.xyz/favi.png",
+  "keywords": [
+    "arbitrum",
+    "mugenswap"
+  ],
+  "tokens": [
+    {
+      "name": "Nitro Shiba",
+      "symbol": "NISHIB",
+      "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/nitroshiba_32.png"
+    },
+{
+      "name": "Magic Token",
+      "symbol": "TOMB",
+      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/magicv2_32.png"
+    }
+  ]
+}

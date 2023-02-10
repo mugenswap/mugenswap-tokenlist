@@ -1,5 +1,5 @@
 {
-  "name": "MugenSwap ETH",
+  "name": "Default List",
   "timestamp": "2022-05-28T04:52:56.475Z",
   "version": {
     "major": 0,
@@ -21,12 +21,12 @@
       "logoURI": "https://etherscan.io/token/images/uniswap_32.png"
     },
 {
-      "name": "Kekchain",
-      "symbol": "KEK",
-      "address": "0x67954768e721fad0f0f21e33e874497c73ed6a82",
+      "name": "Baby Doge",
+      "symbol": "BabyDoge",
+      "address": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
       "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1584495813576708098/4h0BO-kE_400x400.jpg"
+      "decimals": 9,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10407.png"
     },
 {
       "name": "Shiba Inu",
@@ -34,7 +34,7 @@
       "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
       "chainId": 1,
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/shibatoken_32.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
     },
 {
       "name": "FEG Token",
@@ -42,7 +42,7 @@
       "address": "0x389999216860AB8E0175387A0c90E5c52522C945",
       "chainId": 1,
       "decimals": 9,
-      "logoURI": "https://pbs.twimg.com/profile_images/1579452910441795586/p3yivNus_400x400.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8397.png"
     },
 {
       "name": "Kleekai",

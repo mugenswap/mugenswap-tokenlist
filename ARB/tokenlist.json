@@ -22,8 +22,8 @@
     },
 {
       "name": "Magic Token",
-      "symbol": "TOMB",
-      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+      "symbol": "MAGIC",
+      "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://arbiscan.io/token/images/magicv2_32.png"

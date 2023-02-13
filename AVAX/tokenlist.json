@@ -27,14 +27,7 @@
       "chainId": 43114,
       "decimals": 18,
       "logoURI": "https://snowtrace.io/token/images/traderjoe_32.png"
-    },
-{
-      "name": "Baby Krakens",
-      "symbol": "BABYKRAKENS",
-      "address": "0xA2Df0Dc89dfc39FAEe6cf13DFBf2203fEA3670E4",
-      "chainId": 43114,
-      "decimals": 18,
-      "logoURI": "https://snowtrace.io/token/images/babykrakens2_32.png"
     }
+
   ]
 }

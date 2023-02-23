@@ -30,9 +30,9 @@
 {
       "name": "FEGToken",
       "symbol": "FEG",
-      "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
+      "address": "0xBA993532E7b66029077b794383eB0Cb75CcDD72D",
       "chainId": 56,
-      "decimals": 9,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8397.png"
     },
 {

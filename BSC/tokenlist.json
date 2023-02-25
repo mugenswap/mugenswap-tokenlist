@@ -36,12 +36,12 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8397.png"
     },
 {
-      "name": "Aeon Colony",
-      "symbol": "Aeon",
-      "address": "0x9A8c2c5CE1825ae33CA27B598849744BF8E30fDc",
+      "name": "MUU INU",
+      "symbol": "MUU",
+      "address": "0x2900e6b68658128784B9a1de242F811d938d8bA7",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://bscscan.com/cdn-cgi/mirage/87802f657c8e71bba9d777fd14e9295c90597b287693a328f303cd489e09c36b/1280/token/images/aeoncolony_32.png"
+      "logoURI": "https://bscscan.com/token/images/miuinu_32.png"
     }
   ]
 }

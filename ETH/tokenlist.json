@@ -44,6 +44,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8397.png"
     },
 {
+      "name": "BLUR Token",
+      "symbol": "BLUR",
+      "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/blurio_32.png"
+    },
+{
       "name": "Kleekai",
       "symbol": "KLEE",
       "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",

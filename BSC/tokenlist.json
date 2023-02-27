@@ -36,6 +36,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8397.png"
     },
 {
+      "name": "NanoByte Token",
+      "symbol": "NBT",
+      "address": "0x1D3437E570e93581Bd94b2fd8Fbf202d4a65654A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/nanobyte_32.png"
+    },
+{
       "name": "MUU INU",
       "symbol": "MUU",
       "address": "0x2900e6b68658128784B9a1de242F811d938d8bA7",

@@ -37,6 +37,14 @@
       "chainId": 137,
       "logoURI": "https://etherscan.io/token/images/aave_32.png"
     },
+{
+      "name": "FMS social network",
+      "address": "0x649EBee9cddf8373376dc7AEAbE8B975fC8706b8",
+      "symbol": "FMS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://imgur.io/wlaw3t2"
+    },
     {
       "name": "Adamant",
       "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",

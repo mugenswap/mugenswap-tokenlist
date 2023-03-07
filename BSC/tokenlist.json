@@ -25,7 +25,7 @@
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/cdn-cgi/mirage/87802f657c8e71bba9d777fd14e9295c90597b287693a328f303cd489e09c36b/1280/token/images/pancake_32.png"
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
     },
 {
       "name": "FEGToken",
@@ -42,6 +42,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/nanobyte_32.png"
+    },
+{
+      "name": "Golden Inu",
+      "symbol": "GOLDEN",
+      "address": "0x7D4984490c4C68F8eAD9dddcA6d04C514Ef77324",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://bscscan.com/token/images/goldeninuhorde_32.png"
     },
 {
       "name": "MUU INU",

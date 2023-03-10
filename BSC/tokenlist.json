@@ -52,6 +52,14 @@
       "logoURI": "https://bscscan.com/token/images/goldeninuhorde_32.png"
     },
 {
+      "name": "GemPad",
+      "symbol": "GEMS",
+      "address": "0x78Aae7e000Bf6FC98a6b717d5eC8Ef2bcd04F428",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://bscscan.com/token/images/gempad_32.png"
+    },
+{
       "name": "MUU INU",
       "symbol": "MUU",
       "address": "0x2900e6b68658128784B9a1de242F811d938d8bA7",

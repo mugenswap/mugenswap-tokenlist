@@ -60,6 +60,14 @@
       "logoURI": "https://etherscan.io/token/images/dejitarutsuka_32.png"
     },
 {
+      "name": "JPY Coin",
+      "symbol": "JPYC",
+      "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/jpycoin_32.png"
+    },
+{
       "name": "Kleekai",
       "symbol": "KLEE",
       "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",

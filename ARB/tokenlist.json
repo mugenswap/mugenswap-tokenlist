@@ -12,6 +12,14 @@
   ],
   "tokens": [
     {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/Arbitrumone_32.png"
+    },
+    {
       "name": "Nitro Shiba",
       "symbol": "NISHIB",
       "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
